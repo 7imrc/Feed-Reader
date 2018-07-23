@@ -96,9 +96,11 @@ $(function() {
            let entry = $('.feed .entry');
            expect(entry.length).toBeGreaterThan(0);
          });
-
-    /* TODO: Write a new test suite named "New Feed Selection" */
-
+    });
+    /* This test suite ensures that the content actually changes when
+     * a new feed is loaded.
+     */
+    describe('New Feed Selection', function() {
         /* TODO: Write a test that ensures when a new feed is loaded
          * by the loadFeed function that the content actually changes.
          * Remember, loadFeed() is asynchronous.
