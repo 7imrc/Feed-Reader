@@ -6,9 +6,9 @@ As a result, a number of Jasmine tests were completed as required, to ensure thi
 
 ## Background
 
-The original project files are available from Udacity [Udacity Feedreader Project]  (https://github.com/udacity/frontend-nanodegree-feedreader).
+The original project files are available from Udacity [Feedreader Project](https://github.com/udacity/frontend-nanodegree-feedreader).
 
-The testing suite used for this project is Jasmine [Jasmine] (http://jasmine.github.io/).  There are some useful documents at that reference that detail the various specific testing functions.
+The testing suite used for this project is [Jasmine](http://jasmine.github.io/).  There are some useful documents at that reference that detail the various specific testing functions.
 
 ## Installation
 
